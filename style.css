@@ -70,3 +70,19 @@ text-align: left;
     gap: 98.83px;
     text-align: left;
 }
+
+.inspiration{
+    margin-left: 148px;
+    margin-right: 148px;
+    text-align: center;
+    
+}
+.iframe{
+border-radius: 16px;
+background-color: rgb(247, 247, 253);
+border: 1px solid rgb(168, 168, 170);
+padding: 32px;
+}
+.video{
+border-radius: 16px;
+}
