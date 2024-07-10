@@ -1,0 +1,17 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+.banner{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(./assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+body{
+    
+    
+}
