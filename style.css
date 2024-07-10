@@ -39,8 +39,8 @@
     border-radius: 16px;
     background-color: rgb(232, 232, 235);
     padding: 80px 97px;
-    margin-left: 148px;
-    margin-right: 148px;
+    margin-left: 150px;
+    margin-right: 150px;
     text-align: center;
 }
 .whybanner{
@@ -72,8 +72,8 @@ text-align: left;
 }
 
 .inspiration{
-    margin-left: 148px;
-    margin-right: 148px;
+    margin-left: 150px;
+    margin-right: 150px;
     text-align: center;
     
 }
@@ -85,4 +85,13 @@ padding: 32px;
 }
 .video{
 border-radius: 16px;
+}
+
+.target{
+
+}
+.targettitle{
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
 }
