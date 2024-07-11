@@ -1,10 +1,10 @@
-*{
-    margin:0%;
+* {
+    margin: 0%;
     padding: 0%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.banner{
+.banner {
     margin-top: 131px;
     text-align: center;
     margin-left: auto;
@@ -13,12 +13,14 @@
     background-repeat: no-repeat;
     background-size: 100%;
 
-}.bannertitle{
+}
+
+.bannertitle {
 
     color: rgb(12, 12, 12);
 }
 
-.bannerdesc{
+.bannerdesc {
     font-size: 26px;
     margin-left: 200px;
     margin-right: 200px;
@@ -26,7 +28,8 @@
     color: rgb(37, 36, 36);
 
 }
-.contact{
+
+.contact {
     border-radius: 8px;
     padding: 21px 24px;
     font-size: 23px;
@@ -35,7 +38,7 @@
 
 }
 
-.why{
+.why {
     border-radius: 16px;
     background-color: rgb(232, 232, 235);
     padding: 80px 97px;
@@ -43,25 +46,28 @@
     margin-right: 150px;
     text-align: center;
 }
-.whybanner{
+
+.whybanner {
     height: 100%;
     width: 100%;
 }
-.whytitle{
 
-}
-.whydesc{
+.whytitle {}
+
+.whydesc {
     font-size: 26px;
 }
-.why1{
-border-radius: 16px;
-padding: 48px;
-background-color: white;
-display: flex;
-gap: 98.83px;
-text-align: left;
+
+.why1 {
+    border-radius: 16px;
+    padding: 48px;
+    background-color: white;
+    display: flex;
+    gap: 98.83px;
+    text-align: left;
 }
-.why2{
+
+.why2 {
     border-radius: 16px;
     padding: 48px;
     background-color: white;
@@ -71,27 +77,85 @@ text-align: left;
     text-align: left;
 }
 
-.inspiration{
+.inspiration {
     margin-left: 150px;
     margin-right: 150px;
     text-align: center;
+
+}
+
+.iframe {
+    border-radius: 16px;
+    background-color: rgb(247, 247, 253);
+    border: 1px solid rgb(168, 168, 170);
+    padding: 32px;
+}
+
+.video {
+    border-radius: 16px;
+}
+
+.target {
+    margin-left: 150px;
+    margin-right: 150px;
+    
     
 }
-.iframe{
-border-radius: 16px;
-background-color: rgb(247, 247, 253);
-border: 1px solid rgb(168, 168, 170);
-padding: 32px;
-}
-.video{
-border-radius: 16px;
-}
 
-.target{
-
-}
-.targettitle{
-    margin-left: 150px;
-    margin-right: 150px;
+.targettitle {
     text-align: center;
+}
+
+
+.targetcard {
+    display: flex;
+    gap: 24px;
+    /* justify-content: left; */
+}
+
+.html {
+    padding: 40px;
+    border-radius: 16px;
+    background-color: rgb(243, 192, 174);
+}
+
+.css {
+    padding: 40px;
+    border-radius: 16px;
+    background-color: rgb(166, 164, 248);
+}
+
+.js {
+    padding: 40px;
+    border-radius: 16px;
+    background-color: rgb(238, 240, 120);
+}
+
+.nexttarget {
+    /* display: block; */
+    text-align: left;
+}
+
+.react {
+    display: flex;
+    gap: 24px;
+    border-radius: 16px;
+    padding: 40px;
+    border: 1px solid gray;
+}
+
+.node {
+    display: flex;
+    gap: 24px;
+    border-radius: 16px;
+    padding: 40px;
+    border: 1px solid gray;
+}
+
+.mongo {
+    display: flex;
+    gap: 24px;
+    border-radius: 16px;
+    padding: 40px;
+    border: 1px solid gray;
 }
