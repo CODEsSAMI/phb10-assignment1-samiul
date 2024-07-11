@@ -159,3 +159,22 @@
     padding: 40px;
     border: 1px solid gray;
 }
+
+.sup{
+    opacity: 100%;
+}
+.support{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 16px;
+    padding: 64px 48px;
+    background-image: url(./assets/handshake.jpg);
+    background-color: rgb(51, 51, 51);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    text-align: center;
+    
+}
