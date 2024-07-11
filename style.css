@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 * {
     margin: 0%;
     padding: 0%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Azeret Mono", monospace;
+    color: rgb(13, 19, 33);
 }
 
 .navigate{
@@ -42,14 +44,14 @@
     border-radius: 8px;
     padding: 21px 24px;
     font-size: 23px;
-    background-color: rgb(19, 22, 32);
+    background-color: #0D1321;
     color: rgb(255, 255, 255);
 
 }
 
 .why {
     border-radius: 16px;
-    background-color: rgb(232, 232, 235);
+    background-color: #FAFAFB;
     padding: 80px 97px;
     margin-left: 150px;
     margin-right: 150px;
@@ -74,6 +76,7 @@
     display: flex;
     gap: 98.83px;
     text-align: left;
+    justify-content: space-between;
 }
 
 .why2 {
@@ -84,6 +87,7 @@
     display: flex;
     gap: 98.83px;
     text-align: left;
+    justify-content: space-between;
 }
 
 .inspiration {
@@ -94,9 +98,10 @@
 }
 
 .iframe {
+    
     border-radius: 16px;
-    background-color: rgb(247, 247, 253);
-    border: 1px solid rgb(168, 168, 170);
+    background-color: white;
+    border: 1px solid #F3F3F4;
     padding: 32px;
 }
 
@@ -125,24 +130,24 @@
 .html {
     padding: 40px;
     border-radius: 16px;
-    background-color: rgb(243, 192, 174);
+    background-color: #FFF6F4;
 }
 
 .css {
     padding: 40px;
     border-radius: 16px;
-    background-color: rgb(166, 164, 248);
+    background-color: #F2F6FE;
 }
 
 .js {
     padding: 40px;
     border-radius: 16px;
-    background-color: rgb(238, 240, 120);
+    background-color: #FFFDF2;
 }
 
 .nexttarget {
     /* display: block; */
-    text-align: left;
+    text-align: center;
 }
 
 .react {
@@ -150,7 +155,8 @@
     gap: 24px;
     border-radius: 16px;
     padding: 40px;
-    border: 1px solid gray;
+    border: 1px solid #B8B8B9;
+    text-align: left;
 }
 
 .node {
@@ -158,7 +164,8 @@
     gap: 24px;
     border-radius: 16px;
     padding: 40px;
-    border: 1px solid gray;
+    border: 1px solid #B8B8B9;
+    text-align: left;
 }
 
 .mongo {
@@ -166,7 +173,8 @@
     gap: 24px;
     border-radius: 16px;
     padding: 40px;
-    border: 1px solid gray;
+    border: 1px solid #B8B8B9;
+    text-align: left;
 }
 
 .support{
@@ -182,6 +190,15 @@
     background-position-x: center;
     background-position-y: center;
     text-align: center;
+}
+#about{
+  
+    background-color: #F7F7F8;
+}
+.info{
+    margin: 0px 150px;
+    display: flex; 
+    justify-content: space-between; 
     
 }
 
