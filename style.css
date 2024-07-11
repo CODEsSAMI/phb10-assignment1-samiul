@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
     margin: 0%;
     padding: 0%;
@@ -6,15 +7,14 @@
     color: rgb(13, 19, 33);
 }
 
-.navigate{
+.navigate {
     margin-left: 150px;
     margin-right: 166px;
     display: flex;
     justify-content: space-between;
 }
-.download{
-    
-}
+
+.download {}
 
 .banner {
     text-align: center;
@@ -27,7 +27,6 @@
 }
 
 .bannertitle {
-
     color: rgb(12, 12, 12);
 }
 
@@ -35,9 +34,7 @@
     font-size: 26px;
     margin-left: 200px;
     margin-right: 200px;
-
     color: rgb(37, 36, 36);
-
 }
 
 .contact {
@@ -46,7 +43,6 @@
     font-size: 23px;
     background-color: #0D1321;
     color: rgb(255, 255, 255);
-
 }
 
 .why {
@@ -94,11 +90,9 @@
     margin-left: 150px;
     margin-right: 150px;
     text-align: center;
-
 }
 
 .iframe {
-    
     border-radius: 16px;
     background-color: white;
     border: 1px solid #F3F3F4;
@@ -112,19 +106,15 @@
 .target {
     margin-left: 150px;
     margin-right: 150px;
-    
-    
 }
 
 .targettitle {
     text-align: center;
 }
 
-
 .targetcard {
     display: flex;
     gap: 24px;
-    /* justify-content: left; */
 }
 
 .html {
@@ -146,7 +136,6 @@
 }
 
 .nexttarget {
-    /* display: block; */
     text-align: center;
 }
 
@@ -177,7 +166,7 @@
     text-align: left;
 }
 
-.support{
+.support {
     margin-left: 150px;
     margin-right: 150px;
     border-radius: 16px;
@@ -191,14 +180,14 @@
     background-position-y: center;
     text-align: center;
 }
-#about{
-  
+
+#about {
+
     background-color: #F7F7F8;
 }
-.info{
-    margin: 0px 150px;
-    display: flex; 
-    justify-content: space-between; 
-    
-}
 
+.info {
+    margin: 0px 150px;
+    display: flex;
+    justify-content: space-between;
+}
