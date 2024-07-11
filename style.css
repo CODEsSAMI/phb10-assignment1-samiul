@@ -4,8 +4,17 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.navigate{
+    margin-left: 150px;
+    margin-right: 166px;
+    display: flex;
+    justify-content: space-between;
+}
+.download{
+    
+}
+
 .banner {
-    margin-top: 131px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -160,9 +169,6 @@
     border: 1px solid gray;
 }
 
-.sup{
-    opacity: 100%;
-}
 .support{
     margin-left: 150px;
     margin-right: 150px;
@@ -178,3 +184,4 @@
     text-align: center;
     
 }
+
